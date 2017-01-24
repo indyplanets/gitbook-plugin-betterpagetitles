@@ -1,0 +1,12 @@
+{
+    "name": "gitbook-plugin-betterpagetitles",
+    "version": "0.0.3",
+    "description": "This is a Gitbook plugin that brings in the page title just before the content and pulls the title out of the toolbar.",
+    "engines": {
+        "gitbook": ">1.x.x"
+    },
+    "gitbook": {
+        "properties": {
+        }
+    }
+}
